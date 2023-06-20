@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
+ * is writte by the character c
  *return 0
  */
 
@@ -14,6 +15,6 @@ int main(void)
 		_putchar('h')
 		_putchar('a')
 		_putchar('r')
-		_putchar('n')
+		_putchar('\n')
 		return (0)
 }
