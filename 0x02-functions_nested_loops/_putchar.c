@@ -1,3 +1,5 @@
+
+13 lines (12 loc) · 247 Bytes
 #include <unistd.h>
 
 /**
@@ -11,3 +13,4 @@ int _putchar(char c)
 {
 	return (write(1, &c, 1));
 }
+
